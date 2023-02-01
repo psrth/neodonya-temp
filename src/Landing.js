@@ -50,14 +50,15 @@ function Landing() {
             neodonya
           </Heading>
           <Text
-            fontSize={["20px", "20px", "22px", "22px", "22px"]}
-            lineHeight="1.5"
+            fontSize={["16px", "16px", "20px", "20px", "20px"]}
+            lineHeight="1.7"
             mt="20px"
-            width={["80vw", "80vw", "800px", "800px", "800px"]}
+            width={["80vw", "80vw", "750px", "750px", "750px"]}
             color="white"
+            fontFamily="Manrope"
           >
             Neodonya provides custom metaverse solutions for corporates,
-            allowing them to create and maintain their own virtual world.
+            allowing you to create and maintain your own virtual world.
             Experience state-of-the-art design, cutting-edge technology and
             unbeatable customer service. Unlock the potential of the metaverse
             with Neodonya.
@@ -76,6 +77,7 @@ function Landing() {
             mt="30px"
             textTransform="uppercase"
             as="a"
+            fontFamily="Manrope"
           >
             Contact Us
           </Button>
