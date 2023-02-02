@@ -78,6 +78,9 @@ function Landing() {
             textTransform="uppercase"
             as="a"
             fontFamily="Manrope"
+            href="mailto:narayanan@neodonya.com"
+            target="_blank"
+            rel="noreferrer"
           >
             Contact Us
           </Button>
